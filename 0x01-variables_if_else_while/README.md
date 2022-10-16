@@ -1,1 +1,7 @@
-0x01-variables_if_else_while
+
+
+0x01. C - Variables, if, else, while
+
+
+
+Project test files for if, else and while in C programming.
